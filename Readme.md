@@ -1,6 +1,6 @@
-# nft-swap
+# nft-chaseto
 
-[![ci-test](https://github.com/DavidCai1993/nft-swap/actions/workflows/ci.yml/badge.svg)](https://github.com/DavidCai1993/nft-swap/actions/workflows/ci.yml)
+[![ci-test](https://github.com/DavidCai1993/nft-chaseto/actions/workflows/ci.yml/badge.svg)](https://github.com/DavidCai1993/nft-chaseto/actions/workflows/ci.yml)
 
 Simple and safe NFT swapping smart contracts
 
